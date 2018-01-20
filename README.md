@@ -3,3 +3,6 @@
 
 ### NOTES:
   * Must use mongodb version 2.2.33 for the program to work
+  * Note submitted to git:
+    * node_modules
+    * config: with info to mLab database
